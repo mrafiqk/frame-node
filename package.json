@@ -1,5 +1,5 @@
 {
-  "name": "node-frame",
+  "name": "frame-node",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "author": "mrafiqk",
   "license": "ISC",
   "bin": {
-    "node-frame": "./script.js"
+    "frame-node": "./script.js"
   },
   "dependencies": {
     "shelljs": "^0.8.4"
@@ -16,5 +16,13 @@
   "directories": {
     "lib": "lib"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrafiqk/frame-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrafiqk/frame-node/issues"
+  },
+  "homepage": "https://github.com/mrafiqk/frame-node#readme"
 }
