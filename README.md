@@ -6,7 +6,7 @@
 
 # Create new project
 
-Create an node framework using NodeJS of the blank one to start fresh. Get started with the `ionic new` command
+Create an node framework using NodeJS of the blank one to start fresh. Get started with the `frame-node new` command
 
     $ frame-node new <project name>
 
