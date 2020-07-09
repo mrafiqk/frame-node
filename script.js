@@ -23,7 +23,6 @@ if(args[0] == 'generate') {
   Actions.generateResponse(directory, 'get', args[1])
   Actions.generateController(directory, 'get', args[1])
   Actions.generateModel(directory, args[1])
-  Actions.generateRoutes(directory, 'get', args[1])
 } else {
   console.log("Sorry! Command not found!")
 }
